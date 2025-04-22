@@ -37,6 +37,28 @@ This app requires a companion **Python client** to be running on the target comp
 
 5. **Multi-language** 🌍:
    - The app supports **English** and **Turkish**.
+  
+### Screenshots 📸:
+
+| Welcome Page | Welcome Page | Enter Code Page | Enter Code Page |
+|--|--|--|--|
+|![Screenshot_20250418_182654](https://github.com/user-attachments/assets/eeccedd7-a422-4593-ad01-18d758c95f93)|![Screenshot_20250418_182714](https://github.com/user-attachments/assets/7c6776a2-8ece-4f86-a3d7-e1d561df73b9) | ![3](https://github.com/user-attachments/assets/2be19588-4bfb-4f84-b9a0-6701d6960dab) | ![4](https://github.com/user-attachments/assets/c5f45190-badc-4481-a890-e9e6ae93fd57) |
+
+
+
+| Home Page | Home Page | Home Page | Home Page |
+|--|--|--|--|
+|![5](https://github.com/user-attachments/assets/daa24e90-c891-43dc-986c-8b63d4f8f7a4) | ![8](https://github.com/user-attachments/assets/f2d9257d-943a-40f1-a9ed-3ca543393a7f) | ![9](https://github.com/user-attachments/assets/db65d191-fedd-421a-be53-1afcdac2386a) | ![Screenshot_20250421_000901](https://github.com/user-attachments/assets/645d90e0-9146-40af-a872-cbc8268f3c7c) |
+
+
+| Screenshot Page | Task List Page | Task List Page | Settings Page |
+|--|--|--|--|
+|![11](https://github.com/user-attachments/assets/48c8b3a8-5916-4199-a01c-10f1f5883d74)|![12](https://github.com/user-attachments/assets/f23becf5-7899-4fcf-be0f-794d35b424aa)|![13](https://github.com/user-attachments/assets/b7ca31e3-77fa-4ef0-838e-fb6171f13c17)|![14](https://github.com/user-attachments/assets/9adae759-68b9-4966-b63b-238dd47dc510)|
+
+
+
+
+
 
 ### How to Use 📲:
 
@@ -69,7 +91,6 @@ This app requires a companion **Python client** to be running on the target comp
     ```bash
     flutter run
     ```
-### Screenshots 📸:
 
 ## 🖥️ Silicore Client
 
